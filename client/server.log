@@ -1,0 +1,27 @@
+DEBUG:EUC-JP Japanese prober hit error at byte 41252
+DEBUG:EUC-KR Korean prober hit error at byte 41252
+DEBUG:CP949 Korean prober hit error at byte 41252
+DEBUG:EUC-TW Taiwan prober hit error at byte 41252
+DEBUG:utf-8 not active
+DEBUG:SHIFT_JIS Japanese confidence = 0.01
+DEBUG:EUC-JP not active
+DEBUG:GB2312 Chinese confidence = 0.01
+DEBUG:EUC-KR not active
+DEBUG:CP949 not active
+DEBUG:Big5 Chinese confidence = 0.01
+DEBUG:EUC-TW not active
+DEBUG:windows-1251 Russian confidence = 0.01
+DEBUG:KOI8-R Russian confidence = 0.01
+DEBUG:ISO-8859-5 Russian confidence = 0.01
+DEBUG:MacCyrillic Russian confidence = 0.01
+DEBUG:IBM866 Russian confidence = 0.01
+DEBUG:IBM855 Russian confidence = 0.01
+DEBUG:ISO-8859-7 Greek confidence = 0.01
+DEBUG:windows-1253 Greek confidence = 0.01
+DEBUG:ISO-8859-5 Bulgarian confidence = 0.01
+DEBUG:windows-1251 Bulgarian confidence = 0.01
+DEBUG:TIS-620 Thai confidence = 0.01
+DEBUG:ISO-8859-9 Turkish confidence = 0.4902864837621502
+DEBUG:windows-1255 Hebrew confidence = 0.0
+DEBUG:windows-1255 Hebrew confidence = 0.0
+DEBUG:windows-1255 Hebrew confidence = 0.0
