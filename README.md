@@ -1,4 +1,4 @@
-# Computer Networks: Assignment_Python_2022
+# Python webclient & webserver
 The goal of this assignment is to gain experience in application layer network programming through Python Sockets and get familiarized with the basics of distributed programming. Specifically, this assignment will help to understand the Hypertext Transfer Protocol (HTTP), which is one of the widely used protocols on the Internet, and the operation of webpage translators. This project illustrates that correctly following protocol standards allows your programs to interact with each other but also with other people’s programs using application layer networking concepts.
 
 ## Getting up and running
