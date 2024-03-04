@@ -1,7 +1,7 @@
 # Python webclient & webserver
 
 ## Introduction
-The goal of this project is to gain experience in application layer network programming through [Python Sockets](https://docs.python.org/3/library/socket.html) and get familiarized with the basics of distributed programming. Specifically, this project will help to understand the [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/HTTP), which is one of the widely used protocols on the Internet, and the operation of webpage translators. 
+The goal of this project is to gain experience in application layer network programming through [Python Sockets](https://docs.python.org/3/library/socket.html) and get familiarized with the basics of distributed programming. Specifically, this project will help to understand the [Hypertext Transfer Protocol (HTTP)](https://en.wikipedia.org/wiki/HTTP), which is one of the most widely used protocols on the Internet, and the operation of webpage translators. 
 
 ## Project Description
 Specifically, this project focusess on inplementing a subset of the [HTTP/1.1](https://datatracker.ietf.org/doc/html/rfc2616) protocol. Two major components have been written, a webclient and webserver, described below.
